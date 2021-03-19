@@ -1,5 +1,5 @@
 # Mortal Kombat — учебный проект Glo Academy
-## технологии: 
+### технологии: 
 - HTML
 - CSS
 - Normalize
